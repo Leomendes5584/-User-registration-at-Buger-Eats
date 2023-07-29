@@ -1,6 +1,6 @@
 # Automated testing with cypress on the Buger Eats website
 
-## Castro as a new user on the platform.
+## Registering a new user on the platform.
 
 ## Prerequisites
 
